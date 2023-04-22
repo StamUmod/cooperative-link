@@ -1,0 +1,12 @@
+.wrap{
+    margin:0 auto;
+}
+body{
+    font-family: "Noto Sans","Microsoft JhengHei";
+    font-weight:600;
+    font-size:18px;
+}
+p{
+    text-align:center;
+    line-height: 200px;/*與包著的區塊設定同高度即可*/
+}
